@@ -33,7 +33,7 @@
           <p>Explore mechanical watches through proportion, calibration, materials and real-world performance—without marketing noise.</p><a class="gold button" href="collections.html">Explore the archive</a>
         </div>
         <figure><img src="assets/images/hero.png" alt="Black dial mechanical dress watch">
-         
+          <figcaption>INSTRUMENT FILE · 38 MM</figcaption>
         </figure>
       </section>
       <section class="ticker"><span>MECHANICAL CRAFT</span><span>ENDURING DESIGN</span><span>INFORMED COLLECTING</span></section>
