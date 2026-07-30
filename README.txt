@@ -1,0 +1,2 @@
+PRECISION WATCH ARCHIVE
+Upload the entire folder to PHP-compatible hosting. The homepage is index.php; all other pages are HTML. Images are stored locally in assets/images. GA4 and Consent Mode use G-0LY0HY7L01.
